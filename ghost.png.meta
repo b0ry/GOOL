@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 4ca475baa29c4464ab6f81b2c2371db2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghost_0
+    21300002: ghost_1
+    21300004: ghost_2
+    21300006: ghost_3
+    21300008: ghost_4
+    21300010: ghost_5
+    21300012: ghost_6
+    21300014: ghost_7
+    21300016: ghost_8
+    21300018: ghost_9
+    21300020: ghost_10
+    21300022: ghost_11
+    21300024: ghost_12
+    21300026: ghost_13
+    21300028: ghost_14
+    21300030: ghost_15
+    21300032: ghost_16
+    21300034: ghost_17
+    21300036: ghost_18
+    21300038: ghost_19
+    21300040: ghost_20
+    21300042: ghost_21
+    21300044: ghost_22
+    21300046: ghost_23
+    21300048: ghost_24
+    21300050: ghost_25
+    21300052: ghost_26
+    21300054: ghost_27
+    21300056: ghost_28
+    21300058: ghost_29
+    21300060: ghost_30
+    21300062: ghost_31
+    21300064: ghost_32
+    21300066: ghost_33
+    21300068: ghost_34
+    21300070: ghost_35
+    21300072: ghost_36
+    21300074: ghost_37
+    21300076: ghost_38
+    21300078: ghost_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: .350174963, y: .456851959}
+      border: {x: 0, y: 0, z: 15, w: 0}
+    - name: ghost_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 9
+      pivot: {x: .357777834, y: .508629799}
+      border: {x: 0, y: 0, z: 12, w: 0}
+    - name: ghost_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 144
+        width: 46.6000061
+        height: 48
+      alignment: 9
+      pivot: {x: .393333375, y: .42233339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 144
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 46.6000061
+        height: 48
+      alignment: 9
+      pivot: {x: .740000725, y: .465481758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 9
+      pivot: {x: .384444535, y: .422333568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_22
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 46.6000061
+        height: 48
+      alignment: 9
+      pivot: {x: .402222276, y: .422333568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 48
+        width: 46.6000061
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 46.6000061
+        height: 48
+      alignment: 9
+      pivot: {x: .606666446, y: .430963039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 48
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: .729144156, y: .430963039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 47
+        height: 48
+      alignment: 9
+      pivot: {x: .367801428, y: .456851691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_34
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_39
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 46.5999985
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
