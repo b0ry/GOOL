@@ -8,10 +8,12 @@ public class EnemySpawn : MonoBehaviour {
 	private List<ISpawn> enemies;
 	private float timer = 0f;
 	public GameObject ghost;
+	public GameObject monster;
+	public GameObject evilSpirit;
 
 	// Use this for initialization
 	void Start () {
-		enemies = new List<ISpawn> { new SpawnGhost (ghost) };
+		enemies = new List<ISpawn> { new SpawnGhost (ghost), new SpawnMonster(monster), new SpawnSpirit(evilSpirit) };
 	}
 	
 	// Update is called once per frame
@@ -19,7 +21,8 @@ public class EnemySpawn : MonoBehaviour {
 		timer += Time.deltaTime;
 		if (timer >= 3f) {
 			timer = 0f;
-			SetEnemy (enemies[0]);
+			int type = UnityEngine.Random.Range(0,enemies.Count);
+			SetEnemy (enemies[type]);
 			spawn.Spawn();
 		}
 	}
